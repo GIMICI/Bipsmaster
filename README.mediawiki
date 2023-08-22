@@ -79,7 +79,7 @@ Those proposing changes should consider that ultimately consent may rest with th
 | Standard
 | Draft
 |-
-| [[bip-0019.mediawiki|19]]
+|  [[bip-0019.mediawiki|19]]
 | M-of-N Standard Transactions (Low SigOp)
 | Luke Dashjr
 | Standard
